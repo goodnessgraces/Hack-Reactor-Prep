@@ -1,0 +1,15 @@
+*{
+	box-sizing:border-box;
+}
+h1 {
+	font-family: veranda;
+	font-size: 240%;
+	color: CadetBlue;
+}
+p {
+	color: RoyalBlue;
+}
+.sky{
+	font-size: 175%;
+	color: Amethyst;
+}

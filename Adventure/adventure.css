@@ -1,0 +1,37 @@
+body{
+	background-image: url("http://images.sodahead.com/polls/002033203/2528720382_20090722120453_answer_6_xlarge.jpeg");
+	background-size: cover;
+  
+}
+h1, h2 {
+	color:white;
+}
+
+#beach{
+	color: black;
+}
+p {
+	color: LightBlue;
+}
+a {
+	color: yellow;
+}
+body.beach{
+	background-image: url("http://www.hiltonhawaiianvillage.com/assets/img/discover/oahu-island-activities/HHV_Oahu-island-activities_Content_Beaches_455x248_x2.jpg");
+		background-size: cover;
+}
+.container{
+	background-color: LightBlue;
+	padding: 10px;
+	text-align: center;
+}
+body.bar{
+	background-image: url("http://static.eharmony.com/blog/wp-content/uploads/2011/06/804720561man_woman_bar.jpg");
+	background-size: cover;
+}
+#navbar{
+	background-color: blue;
+}
+nav a{
+	font-size: 20px;
+}

@@ -1,0 +1,32 @@
+*{
+	box-sizing:border-box;
+}
+h1 {
+	font-family: veranda;
+	font-size: 240%;
+	color: CadetBlue;
+}
+p {
+	color:white;
+	font-size: 140%;
+}
+ 
+      i {
+        font-size: 300%;
+      }
+       #heading {
+      font-size: 70px;
+      text-align: center;
+
+      
+  }
+  .paragraph{
+  	background-color: PeachPuff;
+  }
+  #nav {
+  	background-color: Peru; 
+  }
+  .container{
+  	background-color: green;
+
+  }
