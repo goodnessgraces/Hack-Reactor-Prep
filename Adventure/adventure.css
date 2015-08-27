@@ -19,6 +19,7 @@ a {
 body.beach{
 	background-image: url("http://www.hiltonhawaiianvillage.com/assets/img/discover/oahu-island-activities/HHV_Oahu-island-activities_Content_Beaches_455x248_x2.jpg");
 		background-size: cover;
+		background-repeat: no-repeat;
 }
 .container{
 	background-color: LightBlue;

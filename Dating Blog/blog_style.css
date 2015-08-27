@@ -1,32 +1,95 @@
-*{
+/**{
 	box-sizing:border-box;
+}*/
+body{
+  background-color: #F0E68C;
 }
 h1 {
 	font-family: veranda;
 	font-size: 240%;
-	color: CadetBlue;
+	/*color: CadetBlue;*/
+}
+
+<style>
+* { 
+  box-sizing: border-box;
+     }
+
+
+  #nav {
+}
+
+/*background-color: #800020;*/
+width: 960px;
+margin: 0 auto;
+
+  }
+
+#heading {
+  position: absolute;
+  padding: 200px;
+}
+#brand  {
+text-align: center;
+
+}
+
+#brand img {
+  display: block ;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 12%;
+  margin: 0 auto;
+
+  
+}
+#nav {
+/*background-color: #800020;*/
+height: 20px;
+text-align: center;
+
+
+}
+
+/*#nav ul {
+  text-align: center;
+
+}*/
+#nav a{
+  color: brown;
+font-size: 120%;
+}
+
+#nav ul li {
+  
+  display: inline;
+  /*list-style-type: none;*/
+/*padding-right: 10px;*/
+}
+
+#sidebar {
+  background-color: yellow;
+  position: fixed;
+    bottom: 10;
+   right: 0;
+  width: 30%;
+  padding: 100px;
+  text-align: left;
+
+}
+
+#content {
+  position: absolute;
+padding: 100px;
+  width: 50%;
+  padding-left: 2%;
+/*  background-color: peach;*/
+
+
 }
 p {
-	color:white;
-	font-size: 140%;
+  font-size: 140%;
+  font-family: Helvetica;
 }
- 
-      i {
-        font-size: 300%;
-      }
-       #heading {
-      font-size: 70px;
-      text-align: center;
 
-      
-  }
-  .paragraph{
-  	background-color: PeachPuff;
-  }
-  #nav {
-  	background-color: Peru; 
-  }
-  .container{
-  	background-color: green;
-
-  }
